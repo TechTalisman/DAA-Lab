@@ -4,18 +4,6 @@
 This repository contains day-wise programs completed in the Design and Analysis of Algorithms (DAA) Lab.  
 Each folder is named according to the lab day (Day-01, Day-02, …) and includes the program files and sample input/output where needed.
 
-## Repository Structure
-DAA-Lab/
-│
-├── Day-01/
-│   ├── program files
-├── Day-02/
-│   ├── program files
-├── Day-03/
-│   ├── program files
-│   …
-└── Day-N/
-
 ## Topics Covered
 - Time Complexity and Analysis
 - Divide and Conquer (Merge Sort, Quick Sort)
