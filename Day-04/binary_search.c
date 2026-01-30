@@ -40,5 +40,6 @@ int main() {
     }else{
         printf("Element found at index %d.\n", result);
     }
+    
     return 0;
 }
