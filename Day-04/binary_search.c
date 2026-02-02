@@ -1,4 +1,4 @@
-// Performs binary search on a sorted array to find a target element.
+// Performs binary search on a sorted array to find a target element. 
 
 #include <stdio.h>
 
