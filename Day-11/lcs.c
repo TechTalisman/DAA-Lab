@@ -1,4 +1,4 @@
-// to find the Longest Common Subsequence (LCS) between two strings using Dynamic Programming
+// to find the Longest Common Subsequence (LCS) between two strings using Dynamic Programming 
 
 #include <stdio.h>
 #include <string.h>
