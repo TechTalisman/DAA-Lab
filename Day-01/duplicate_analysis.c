@@ -69,6 +69,5 @@ int main() {
     } else {
         printf("The most repeating element in the array = None\n");
     }
-
     return 0;
 }
