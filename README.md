@@ -1,4 +1,4 @@
-# DAA Lab – Design and Analysis of Algorithms  
+# Design and Analysis of Algorithms Lab
 3rd Year | 5th Semester (B.Tech CSE)
 
 This repository contains day-wise programs completed in the Design and Analysis of Algorithms (DAA) Lab.  
