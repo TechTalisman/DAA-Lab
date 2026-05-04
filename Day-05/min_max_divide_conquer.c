@@ -6,6 +6,7 @@ struct Result {
     int max;
 };
 
+
 struct Result findMinMax(int arr[], int low, int high) {
     struct Result res, left, right;
     if (low == high) {
