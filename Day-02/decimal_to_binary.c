@@ -10,7 +10,6 @@ void decToBin(int num, char *binary, int index) {
     decToBin(num / 2, binary, index - 1);
 }
 
-
 int main(int argc, char *argv[]) {
     if (argc != 4) {
         printf("Usage: %s <n> <source file> <destination file>\n", argv[0]);
