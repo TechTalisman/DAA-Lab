@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <limits.h>
 
-
 void maxmin1(int a[], int s, int e) {
     int max = INT_MIN, min = INT_MAX;
     for (int i = s; i <= e; i++) {
