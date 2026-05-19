@@ -5,6 +5,7 @@
 
 long long comparisons = 0;
 
+
 // --------- Cross-platform High Resolution Timer ---------
 #ifdef _WIN32
 #include <windows.h>
