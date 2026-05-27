@@ -2,7 +2,6 @@
 
 #include <stdio.h>
 
-
 int binarySearch(int arr[], int size, int target) {
     int low = 0, high = size - 1;
     
